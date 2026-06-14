@@ -157,7 +157,7 @@
 
 | 文档 | 内容 |
 | --- | --- |
-| **[readme.md](./readme.md)** | 跨层对比、Top 10、组合、验证日历、**完整标的索引** |
+| **[readme.md](./readme.md)** | 跨层对比、Top 10、组合、**[§3 重要时间节点](./readme.md#3-2026-h2-重要时间节点验证日历)**、完整标的索引 |
 | **`{代码}/ana.md`** | 各公司独立分析（如 [NVDA](./NVDA/ana.md)、[0700](./0700/ana.md)、[GOOGL](./GOOGL/ana.md)） |
 | [optical-index.md](./optical-index.md) | L2 光互联四股 |
 | [L5-adtech-index.md](./L5-adtech-index.md) | SHOP/TTD/APP |
