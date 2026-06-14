@@ -131,22 +131,121 @@ FOMO 程度： L1 高  L2 中–高  L3 分化  L4 拥挤  L5 分化
 
 ---
 
-## 3. 2026 H2 验证日历
+## 3. 2026 H2 重要时间节点（验证日历）
 
-| 日期 | 事件 | 标的 |
+> 日期多为 **2026 年 6 月中旬第三方预估**，发布前请核对各公司 IR。财年命名不一（尤其 LITE/COHR vs GLW/AAOI），见 [光通信财年说明](../optional-fiber-communications/readme.md#六统一验证窗口2026-h2)。
+
+### 3.1 操作节奏（一眼版）
+
+```text
+6/24          ← Memory 风向标（MU）；等算力/memory 者可在此后定仓
+7/23–8/6      ← 港股(0700) + 云(9988) + Foundry(INTC) + Hyperscale Q2
+8/4–8/27      ← 最密集：光通信 → AMD → AMAT → NVDA（建议分三批决策）
+9/3           ← AVGO 收官；算力链 H2 叙事是否成立
+```
+
+**若只能盯 3 个日期：6/24（MU）→ 8/14（AMAT）→ 8/27（NVDA）。**
+
+---
+
+### 3.2 Tier 1 — 全链风向标（必盯）
+
+| 时间（美东） | 事件 | 盯什么 | 影响范围 |
+| --- | --- | --- | --- |
+| **6/24（三）盘后** | **[MU](./MU/ana.md) FY26 Q3** | 毛利率 **≥81%**？HBM/DRAM 供给展望 | Memory 超级周期；NVDA/AVGO/SNDK 估值 |
+| **~8/27（三）盘后** | **[NVDA](./NVDA/ana.md) FY27 Q2** | 收入 **~$91B**？GM ~75%？下季指引 | AI 算力链总开关 |
+| **~9/3（四）** | **[AVGO](./AVGO/ana.md) FY26 Q3** | AI semi **$16B**？FY26 AI $56B 是否上修 | 定制 ASIC；6 月回调后 re-rating |
+| **持续** | Hyperscale **capex 指引** | MSFT/GOOG/AMZN/META 是否削减 2027 DC capex | L1–L3 全链需求 |
+
+> **勘误：** NVDA 下一季为 **FY27 Q2（~8/27）**，非 6 月。6/24 当日核心 catalyst 为 **MU**。
+
+---
+
+### 3.3 Tier 2 — 建仓 / 加仓决策点
+
+| 时间 | 事件 | 关键验证 | 标的 |
+| --- | --- | --- | --- |
+| **~7/23** | [INTC](../optional-semiconductor/INTC/ana.md) CY Q2 | Foundry $5B+、18A 客户信号 | INTC |
+| **~7/23** | [0700](./0700/ana.md) Q2 | 企业服务增速；WorkBuddy / Hy3 | 0700.HK |
+| **~7/23–30** | GOOGL / MSFT / META / AMZN Q2 | 云增速 vs capex；AI monetization | L3/L5 |
+| **~8/5（三）盘后** | [AMD](./AMD/ana.md) CY Q2 | 收入 **~$11.2B**；MI450 进展 | AMD |
+| **~8/6** | [9988](./9988/ana.md) FY26 Q1 | 云 ext **+40%** 维持？AI 产品 triple-digit | 9988.HK |
+| **~8/14** | [AMAT](./AMAT/ana.md) FY26 Q3 | WFE 订单；DRAM 设备 mix | AMAT |
+
+#### 光通信密集窗口（8/4–13，L2）
+
+| 日期 | Ticker | 时段 | 关键指引 |
+| --- | --- | --- | --- |
+| **8/4（二）** | [GLW](../optional-fiber-communications/GLW/ana.md) | 盘前 | core sales ~$4.6B |
+| **8/6（四）** | [AAOI](../optional-fiber-communications/AAOI/ana.md) | 盘后 | 收入 $180–198M |
+| **8/11（二）** | [LITE](../optional-fiber-communications/Lite/ana.md) | 盘后 | 收入 $960M–$1.01B |
+| **8/13（四）** | [COHR](../optional-fiber-communications/COHR/ana.md) | 盘后 | 收入 $1.91–$2.05B |
+
+详见 [optical-index.md](./optical-index.md) · [光通信 readme](../optional-fiber-communications/readme.md)
+
+---
+
+### 3.4 Tier 3 — 板块专项验证
+
+| 时间 | 事件 | 标的 / 专题 |
 | --- | --- | --- |
-| 6/24 | MU Q3 GM 81% | [MU](./MU/ana.md) |
-| ~6/24–27 | NVDA Q2 $91B | [NVDA](./NVDA/ana.md) |
-| ~7/23 | INTC Q2 | [INTC](../optional-semiconductor/INTC/ana.md) |
-| ~7/23 | 0700 Q2 | [0700](./0700/ana.md) |
-| 8/4–13 | 光通信 Q2 | [optical-index](./optical-index.md) |
-| ~8/5 | AMD Q2 | [AMD](./AMD/ana.md) |
-| ~8/6 | 9988 Q1 | [9988](./9988/ana.md) |
-| ~8/14 | AMAT Q3 | [AMAT](./AMAT/ana.md) |
-| ~8/27 | NVDA Q2 | [NVDA](./NVDA/ana.md) |
-| ~9/3 | AVGO Q3 | [AVGO](./AVGO/ana.md) |
+| **8 月初** | SNDK / WDC / STX FY26 Q4 | [semi-storage](../optional-semiconductor-storage/readme.md) |
+| **~8/20** | LRCX FY26 Q4 | [LRCX](../optional-semiconductor/LRCX/ana.md) |
+| **~8 月底** | MRVL FY27 Q2 | [MRVL](../optional-semiconductor/MRVL/ana.md) |
+| **~11 月** | AAOI Q3 | 「显著更大增长」？ |
+| **2027/1–2** | GLW Q4 | Springboard $20B run rate |
 
-**组合证伪：** NVDA+AVGO 同下调指引 · Hyperscale capex cut · MU GM<78% · 9988 云增速<30%
+---
+
+### 3.5 完整时间线（美东，2026 H2）
+
+```text
+6/24 (三)  MU      FY26 Q3     盘后  ← Tier 1 · Memory GM 81%
+
+7/23 (四)  INTC   CY Q2       盘后  ← Foundry / 18A
+7/23 (四)  0700   Q2          ← 港股 · 企服 + AI agent
+7/23–30    GOOGL/MSFT/META/AMZN Q2  ← Hyperscale · 云 vs capex
+
+8/4  (二)  GLW    CY Q2       盘前  ┐
+8/6  (四)  AAOI   CY Q2       盘后  │
+8/11 (二)  LITE   FY26 Q4     盘后  ├─ 光通信四股
+8/13 (四)  COHR   FY26 Q4     盘后  ┘
+8/5  (三)  AMD    CY Q2       盘后
+8/6          9988 FY26 Q1    ← 阿里云
+8/14         AMAT FY26 Q3    盘后  ← Tier 2 · 卖铲人
+8/20         LRCX FY26 Q4    盘后
+8/27 (三)  NVDA   FY27 Q2     盘后  ← Tier 1 · ~$91B
+8/底         MRVL FY27 Q2
+8/初         SNDK/WDC/STX FY26 Q4
+
+9/3  (四)  AVGO   FY26 Q3           ← Tier 1 · AI semi $16B
+```
+
+---
+
+### 3.6 组合级证伪（任一触发 → 下调整体 AI 敞口）
+
+| 类型 | 条件 |
+| --- | --- |
+| **算力** | [NVDA](./NVDA/ana.md) + [AVGO](./AVGO/ana.md) **同时**下调下季指引 |
+| **Memory** | MU Q3 **GM < 78%**；DRAM/NAND ASP 季环比 **−10%**（TrendForce） |
+| **云** | [9988](./9988/ana.md) 云增速 **< 30%**；四家 hyperscale 集体砍 2027 capex |
+| **光通信** | 两家以上 Q2 miss；800G ASP 季环比 **−10%** |
+| **设备** | WFE 订单连续两季 YoY 负增长（[AMAT](./AMAT/ana.md) / [LRCX](../optional-semiconductor/LRCX/ana.md)） |
+| **地缘** | 美中 export control 显著扩大至 AI 网络/设备 |
+| **存储/HDD** | 两家以上 memory/HDD miss（见 [semi-storage](../optional-semiconductor-storage/readme.md)） |
+
+---
+
+### 3.7 与「现在买 vs 等一等」的对应
+
+| 策略 | 对应节点 |
+| --- | --- |
+| **现在可打底** | AMAT、GOOGL、0700（gap ≥ 0 / 未 FOMO，不必等财报） |
+| **等 6/24 后** | MU、memory 链仓位；是否加 [SNDK](../optional-semiconductor-storage/SNDK/ana.md) |
+| **等 8/4–8/27** | 光通信、AMD、NVDA 大部分目标仓 |
+| **等 9/3 后** | AVGO 是否从「回调买入」升级为「核心算力 leg」 |
+| **持续不参与** | SMCI、LITE/WDC 追高、0020/PLTR |
 
 ---
 
