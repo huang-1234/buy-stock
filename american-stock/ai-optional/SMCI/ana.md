@@ -1,5 +1,8 @@
 以下为 **SMCI（Super Micro Computer）** 的贝叶斯内在增长估值分析。AI 产业链 **L2**（AI 服务器/机柜）。数据截至 **2026 年 6 月中旬**，供研究参考，**非投资建议**。
 
+> **Q4 FY26 财报情景分析（Bull/Base/Bear）：** [q4-scenario-aug2026.md](./q4-scenario-aug2026.md)  
+> **估值合理性（偏高/偏低）：** [valuation-jun2026.md](./valuation-jun2026.md)（含 §8 大盘回落敏感性）
+
 ---
 
 ## 1. 公司一句话定位

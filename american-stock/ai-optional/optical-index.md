@@ -1,7 +1,8 @@
 # COHR / LITE / GLW / AAOI · AI 产业链 L2（光互联）
 
 > **AI 层定位：** L2 — 800G/1.6T 光模块/光器件/光纤  
-> **完整对比分析：** [optional-fiber-communications/readme.md](../../optional-fiber-communications/readme.md)
+> **完整对比分析：** [optional-fiber-communications/readme.md](../../optional-fiber-communications/readme.md)  
+> **6/15 美股集体大涨分析：** [jun15-2026-us-rally.md](../../optional-fiber-communications/jun15-2026-us-rally.md)
 
 | Ticker | 层内角色 | 内在 CAGR | gap | 估值状态 | 深度分析 |
 | --- | --- | ---: | ---: | --- | --- |

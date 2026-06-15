@@ -1,5 +1,8 @@
 以下为 **MSFT（Microsoft）** 的贝叶斯内在增长估值分析。AI 产业链 **L3/L5**（Azure/Copilot/企业 AI）。数据截至 **2026 年 6 月中旬**，供研究参考，**非投资建议**。
 
+> **GF-DMA 评分、L3 对比、6 月回调/反弹论证：** [gf-dma-jun2026.md](./gf-dma-jun2026.md)（含 §10 大盘回落敏感性）  
+> **估值合理性（偏高/偏低）：** [valuation-jun2026.md](./valuation-jun2026.md)
+
 ---
 
 ## 1. 公司一句话定位
@@ -31,13 +34,13 @@ Microsoft 是 **Azure + Copilot + OpenAI 绑定** 的企业 AI 平台龙头。FY
 
 ## 4. 市场隐含增长速度
 
-~$424；市值 ~$3.2T → 隐含 **~22%–26%** → **gap −2pp**
+~$400（6/15）；市值 ~$3.0T → 隐含 **~22%–26%** → **gap −2pp**
 
 ---
 
 ## 5. 股价-基本面背离
 
-Q3 beat 但 AH −3%（capex 担忧）→ **股价略领先 capex 焦虑**
+Q3 beat 后持续阴跌（6/1 $460 → 6/11 $386，**-13%**）；GF-DMA **60/100**，R_50 **<0.5** → **趋势跑输 Azure +40% 基本面**，支持 mean reversion 但 Escape Ratio ≈ 0 限制反弹高度。详见 [gf-dma-jun2026.md](./gf-dma-jun2026.md)。
 
 ---
 
