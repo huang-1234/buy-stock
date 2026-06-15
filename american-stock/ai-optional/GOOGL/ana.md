@@ -1,5 +1,7 @@
 以下为 **GOOGL（Alphabet）** 的贝叶斯内在增长估值分析。AI 产业链 **L3**（GCP/Vertex/Gemini/TPU）。数据截至 **2026 年 6 月中旬**，供研究参考，**非投资建议**。
 
+> **GF-DMA 评分 & L3 对比（vs MSFT）：** [gf-dma-jun2026.md](./gf-dma-jun2026.md)
+
 ---
 
 ## 1. 公司一句话定位
