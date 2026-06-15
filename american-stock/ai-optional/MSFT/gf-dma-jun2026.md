@@ -2,7 +2,8 @@
 
 AI 产业链 **L3/L5**（Azure/Copilot/企业 AI）。数据截至 **2026 年 6 月 16 日**，供研究参考，**非投资建议**。
 
-> 贝叶斯 intrinsic 估值见 [ana.md](./ana.md)。本文档记录 **GF-DMA 评分**、**L3 对比（vs GOOGL）** 及 **6 月 capex 回调后的反弹论证**。
+> 贝叶斯 intrinsic 估值见 [ana.md](./ana.md)。本文档记录 **GF-DMA 评分**、**L3 对比（vs GOOGL）** 及 **6 月 capex 回调后的反弹论证**。  
+> 估值合理性（偏高/偏低）见 [valuation-jun2026.md](./valuation-jun2026.md)。
 
 ---
 

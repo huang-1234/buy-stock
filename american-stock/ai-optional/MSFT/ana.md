@@ -1,6 +1,7 @@
 以下为 **MSFT（Microsoft）** 的贝叶斯内在增长估值分析。AI 产业链 **L3/L5**（Azure/Copilot/企业 AI）。数据截至 **2026 年 6 月中旬**，供研究参考，**非投资建议**。
 
-> **GF-DMA 评分、L3 对比、6 月回调/反弹论证：** [gf-dma-jun2026.md](./gf-dma-jun2026.md)
+> **GF-DMA 评分、L3 对比、6 月回调/反弹论证：** [gf-dma-jun2026.md](./gf-dma-jun2026.md)  
+> **估值合理性（偏高/偏低）：** [valuation-jun2026.md](./valuation-jun2026.md)
 
 ---
 
